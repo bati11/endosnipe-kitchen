@@ -1,6 +1,8 @@
 {
   "run_list":[
+    "openjdk",
     "tomcat",
-    "postgresql"
+    "postgresql",
+    "endo-snipe-collector"
   ]
 }
